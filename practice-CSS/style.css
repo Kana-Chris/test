@@ -1,0 +1,43 @@
+
+h1{
+	color: blue; font-size:15px;
+}
+.xyz{
+	
+	color:brown;
+	background-color:black;
+}
+#aisatu{
+	font-size:20px;
+	color:green;
+}
+#orei{
+	font-size:
+	30px;color:
+	yellow;
+}
+.hello{
+	text-align:center;
+}
+h2{
+	font-size:40px;
+	color:blue;
+}
+.abc{
+	font-size:20px;
+	text-align:left;
+	color:blue;
+}
+.name{
+	list-style-type:none;
+}
+.nol{
+	color:red;
+}
+.tokyo{
+	font-family:"Meyrio",serif;
+	font-size:30px;
+}
+.saitama{
+	color:yellow;
+}
